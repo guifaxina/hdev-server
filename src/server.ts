@@ -4,7 +4,7 @@ import router from "./router/routes.js"
 import cors from "cors"
 dotenv.config()
 
-const PORT = Number(process.env.PORT) || 3000
+const PORT = Number(process.env.PORT) || 8080
 
 const app = express()
 
