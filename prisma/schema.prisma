@@ -12,7 +12,7 @@ model User {
   name        String?
   birthdate   String?
   sex         String?
-  profilepic  String? 
+  profilePic  String? 
   email       String?
   phoneNumber String?
   rg          String?
