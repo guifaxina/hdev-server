@@ -20,7 +20,7 @@ $ cd <pasta>
 ```sh
 $ npm i && npm run build && npm run start
 ```
-O servidor agora irá estar rodando em <strong>http://localhost:8080</strong>
+O servidor estará rodando em <strong>http://localhost:8080</strong>
 
 ### Variáveis Ambiente
 
